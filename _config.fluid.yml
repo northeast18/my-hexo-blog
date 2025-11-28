@@ -769,8 +769,7 @@ valine:
   lang: zh-CN
   highlight: true
   recordIP: false
-  serverURLs: "" 
-
+  
 #---------------------------
 # 评论插件
 # Comment plugins
