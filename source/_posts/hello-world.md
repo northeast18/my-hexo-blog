@@ -1,7 +1,13 @@
 ---
 title: Hello World
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+---
+title: 我的第一篇博客
+date: 2025-11-27 12:00:00      # 创建时间 (必须有)
+updated: 2025-11-28 08:30:00   # 更新时间 (如果你想显示更新时间，这个必须有)
+tags: 
+  - 生活
+---
 
 ## Quick Start
 

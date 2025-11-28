@@ -539,6 +539,7 @@ index:
   # Meta information of post
   post_meta:
     date: true
+    date_type: both  # 改为 both
     category: true
     tag: true
 
