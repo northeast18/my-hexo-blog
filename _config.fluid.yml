@@ -757,7 +757,19 @@ post:
     # The specified plugin needs to set the necessary parameters at the same time
     # Options: utterances | disqus | gitalk | valine | waline | changyan | livere | remark42 | twikoo | cusdis | giscus | discuss
     type: valine
-valine:  appId: "你的LeanCloud App ID"  appKey: "你的LeanCloud App Key"  placeholder: "留下你的评论..."
+valine:
+  appId: "你的LeanCloud App ID"
+  appKey: "你的LeanCloud App Key"
+  serverURLs: ""
+  placeholder: "说点什么..."
+  path: window.location.pathname
+  avatar: retro
+  meta: ["nick", "mail", "link"]
+  pageSize: 10
+  lang: zh-CN
+  highlight: true
+  recordIP: false
+  serverURLs: "" 
 
 #---------------------------
 # 评论插件
